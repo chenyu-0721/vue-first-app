@@ -1,4 +1,4 @@
-# vue-first-app   Udemy課程練習專案
+# vue-first-app   Udemy課程練習
 
 ## Project setup
 ```
