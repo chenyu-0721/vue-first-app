@@ -12,12 +12,6 @@
 
 <script>
 export default{
-    // props:[
-    //     'name',
-    //     'phoneNumber', 
-    //     'emailAddress',
-    //     'isFavorite'
-    // ],
     props:{
         id:{
             type:String,
@@ -39,9 +33,6 @@ export default{
             type:Boolean,
             required:true,
             default:false,
-            // validator:function(value){
-            //     return value === '1' || value === '0'
-            // }
         },
     },
     data(){
